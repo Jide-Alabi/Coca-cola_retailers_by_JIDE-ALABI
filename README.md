@@ -53,9 +53,24 @@ In the initial data preparation phase, we performed the following tasks:
 ### Exploratory Data Analysis EDA
 
 1. What is the overall Retailers sales performance?
+
+![retailers sales performance chart](https://github.com/user-attachments/assets/fb457557-293d-484a-8c2b-b891efaa9415)
+
 2. Which product brand is the top seller?
+
+![No of unit sold by brand](https://github.com/user-attachments/assets/dc65b81d-b6d4-4227-a2c0-bd9d795034c3)
+
 3. What are the peak sales period?
+
+![Screenshot 2025-04-08 125926](https://github.com/user-attachments/assets/33dee5eb-1821-4586-8f8b-12b3cb3cbce9)
+
 4. What are the sales performance across different regions and states?
+
+![Profit margin by region](https://github.com/user-attachments/assets/545d2110-94e5-4a69-a04d-30ad76583dfc)
+
+![Profit by states](https://github.com/user-attachments/assets/1377c9af-2979-4d53-a18b-d8a8b1a82798)
+
+
 
 
 ### Data Analysis
@@ -64,12 +79,15 @@ In the initial data preparation phase, we performed the following tasks:
 2. Comparative analysis was performed on key metrics, such as the change in operating profit margin from 2022 to 2023.
 3. Pivot tables and aggregations were employed to summarize data by different groupings (e.g., by region, state, and city).
 
+![Screenshot 2025-04-03 010158](https://github.com/user-attachments/assets/5a853128-87a7-4f65-bba9-05948d94b31e)
+
+
 ### Results and Findings
 
 1. Sales revenue increased rapidly in year 2023 compared to 2022.
 2. Coca-cola is the preffered beverage brand across all states and region compared to the other Coca-cola brand.
 3. West Soda who appears as the overall best selling retailer only dominated the market share at the West region which is the best selling region.
-4. New York is the overall top selling state in the Northeast region.
+4. New York is the overall top selling state and it is in the Northeast region.
 5. Retailers coverage are absent in some States resulting to overall low sales. 
 
 ### Recommendations
